@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtualenv
+.venv/
+
+# OS / Editor
+.DS_Store
+.vscode/
+.idea/
+
+# Local app data
+faceauth.db
+*.db
+
+# Secrets
+.env
+.env.*
